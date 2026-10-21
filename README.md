@@ -1,4 +1,4 @@
-# TravelFactory — Vacation Management
+# Vacation Management App
 
 ## Overview
 
