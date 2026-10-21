@@ -1,4 +1,4 @@
-# TravelFactory — Vacation Management (technical test)
+# Vacation Management App (technical test)
 
 Vacation request app, two roles: Requester submits, Validator approves/rejects.
 Stack: Vue 3 + TS + Pinia + Tailwind (frontend) · Node + TS + CEF + TypeORM +
